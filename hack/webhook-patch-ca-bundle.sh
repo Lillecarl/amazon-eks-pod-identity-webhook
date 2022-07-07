@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 # Original script found at: https://github.com/morvencao/kube-mutating-webhook-tutorial/blob/master/deployment/webhook-patch-ca-bundle.sh
 
 ROOT=$(cd $(dirname $0)/../../; pwd)
